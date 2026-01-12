@@ -41,9 +41,14 @@ Built for CS253 Data Structures & Algorithms, this system helps users manage med
 5. Completed reminders move to LinkedList history
 
 ## How to Run
+1. Make sure you have Java installed (JDK 8 or higher)
+2. Compile the program:
 ```bash
-javac MedicineReminderSystem.java
-java MedicineReminderSystem
+javac Main.java
+```
+3. Run the program:
+```bash
+java Main
 ```
 
 ## Example Usage
